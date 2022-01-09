@@ -16,13 +16,13 @@ Implement linear search and analyze it
 Optimize the solution using binary search
 
 Lesson 2 - Binary Search Trees, Traversals and Recursion
-Open →
+
 Binary trees, traversals, and recursion
 Binary search trees & common operations
 Balanced binary trees and optimizations
 
 Assignment 2 - Hash Tables and Python Dictionaries
-Open →
+
 Hash tables from scratch in Python
 Handling collisions using linear probing
 Replicating Python dictionaries
